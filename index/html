@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Redirecting...</title>
+    <meta http-equiv="refresh" content="0; url=https://nerdgard.pl/nerdgard/frontend/">
+</head>
+
+<body>
+
+    <p>You are being redirected to <a
+            href="https://nerdgard.pl/nerdgard/frontend/">https://nerdgard.pl/nerdgard/frontend/</a>. If you are not
+        redirected automatically, click the link.</p>
+
+    <script>
+        window.location.href = "https://nerdgard.pl/nerdgard/frontend/";
+    </script>
+
+</body>
+
+</html>
