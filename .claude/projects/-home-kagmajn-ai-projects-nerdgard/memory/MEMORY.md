@@ -1,0 +1,2 @@
+- [Brutal honesty](feedback_brutal_honesty.md) — User wants direct, unfiltered feedback during nerdgard dev
+- [Nerdgard context](project_nerdgard.md) — Friends' Discord server community, hosted at nerdgard.pl
